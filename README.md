@@ -15,5 +15,6 @@
 14:00 - 15:00 > HelloWorldMAUI Programm erstellt
 
 #### Mittwoch, 2. Juli 2025
-09:00 - 09:30 > DEMO: OK Erhalten zum Weitermachen, 1. Meilenstein erreicht!
+09:00 - 09:30 > DEMO: OK Erhalten zum Weitermachen
+                1. Meilenstein erreicht!
 10:15 - 10:40  > LEARNING 
