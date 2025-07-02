@@ -16,5 +16,5 @@
 
 #### Mittwoch, 2. Juli 2025
 09:00 - 09:30 > DEMO: OK Erhalten zum Weitermachen<br>
-                <br>1. Meilenstein erreicht!<br>
-10:15 - 10:40  > LEARNING 
+09:30 > 1. Meilenstein erreicht! <br>
+10:15 - 10:40  > LEARNING <br>
