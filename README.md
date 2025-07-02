@@ -9,12 +9,12 @@
 
 ### Donnerstag, 25. Juni 2025 
 
-09:00 - 10:00 > Einlesen Projekt auf One Note
-10:15 - 12:00 > Installation VisualStudio .NET MAUI Umgebung und konfigurieren des Emulators
-13:00 - 14:00 > Initialisieren Github Repo in ESPAS Org mit Namenkonvention und Hochladen
-14:00 - 15:00 > HelloWorldMAUI Programm erstellt
+09:00 - 10:00 > Einlesen Projekt auf One Note<br>
+10:15 - 12:00 > Installation VisualStudio .NET MAUI Umgebung und konfigurieren des Emulators<br>
+13:00 - 14:00 > Initialisieren Github Repo in ESPAS Org mit Namenkonvention und Hochladen<br>
+14:00 - 15:00 > HelloWorldMAUI Programm erstellt<br>
 
 #### Mittwoch, 2. Juli 2025
-09:00 - 09:30 > DEMO: OK Erhalten zum Weitermachen
-                1. Meilenstein erreicht!
+09:00 - 09:30 > DEMO: OK Erhalten zum Weitermachen<br>
+                <br>1. Meilenstein erreicht!<br>
 10:15 - 10:40  > LEARNING 
