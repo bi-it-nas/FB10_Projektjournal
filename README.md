@@ -14,7 +14,7 @@
 13:00 - 14:00 > Initialisieren Github Repo in ESPAS Org mit Namenkonvention und Hochladen<br>
 14:00 - 15:00 > HelloWorldMAUI Programm erstellt<br>
 
-#### Mittwoch, 2. Juli 2025
+### Mittwoch, 2. Juli 2025
 09:00 - 09:30 > DEMO: OK Erhalten zum Weitermachen<br>
 09:30 > 1. Meilenstein erreicht! <br>
 10:15 - 10:40  > LEARNING <br>
