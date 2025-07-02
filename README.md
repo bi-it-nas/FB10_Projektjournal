@@ -2,8 +2,8 @@
 
 ## Resources
 ### Markdown
-[Markdown in 60s](https://www.youtube.com/shorts/4z0l5Kl2Q6E)
-[Holy Bible of Markdown](https://www.youtube.com/watch?v=_PPWWRV6gbA)
+- [Markdown in 60s](https://www.youtube.com/shorts/4z0l5Kl2Q6E)
+- [Holy Bible of Markdown](https://www.youtube.com/watch?v=_PPWWRV6gbA)
 
 ## Ablauf 
 ### Donnerstag, 25. Juni 2025 
