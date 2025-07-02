@@ -6,7 +6,9 @@
 - [Holy Bible of Markdown](https://www.youtube.com/watch?v=_PPWWRV6gbA)
 
 ## Ablauf 
+
 ### Donnerstag, 25. Juni 2025 
+
 09:00 - 10:00 > Einlesen Projekt auf One Note
 10:15 - 12:00 > Installation VisualStudio .NET MAUI Umgebung und konfigurieren des Emulators
 13:00 - 14:00 > Initialisieren Github Repo in ESPAS Org mit Namenkonvention und Hochladen
