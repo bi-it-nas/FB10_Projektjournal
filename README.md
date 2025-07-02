@@ -22,15 +22,11 @@
 
 - Vorstellung der „Hello World“-Applikation bei einer FW-Leitung und Einholung des „Go“ zum Weiterfahren.
 
----
-
 ### Phase 2: Planung
 
 - Mockup-Skizze erstellen (visuelle Darstellung eines Designs, ohne interaktive Elemente zu enthalten), z. B. mit [Figma](https://www.figma.com), [Draw.io](https://www.draw.io) oder [Android App Entwicklung - Datenstruktur](https://www.tutorialspoint.com/android/android_data_storage.htm).
 - UML-Klassendiagramm erstellen, inkl. Methoden (siehe Abschnitt Datenstruktur).
 - Formular/Validierungen definieren.
-
----
 
 #### Meilenstein 2
 
