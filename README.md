@@ -75,3 +75,12 @@
 09:00 - 09:30 > DEMO: OK Erhalten zum Weitermachen<br>
 09:30 > 1. Meilenstein erreicht! <br>
 10:15 - 10:40  > LEARNING <br>
+
+## Gedanken
+
+## Protytpe in Figma
+
+Prototype für Adroid Medium > ChatGPT: Recommended frame
+Android Medium (700 × 840)
+
+    This is a good "safe" mid-range Android screen size. Represents a modern phone in portrait orientation. Big enough to design comfortably, without going too large.
