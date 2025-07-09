@@ -89,3 +89,17 @@ Android Medium (412 × 927)
 
 
     This is a good "safe" mid-range Android screen size. Represents a modern phone in portrait orientation. Big enough to design comfortably, without going too large.
+
+
+## Reviews
+    Amazing 🌟: They absolutely loved it! This is "better than fun."
+
+    Fun 😄: They had a great time and enjoyed themselves.
+
+    Okay 👌: It was fine, but nothing special.
+
+    Boring 😴: They found it dull or uninteresting.
+
+    Frustrating 😟: They found it difficult or got discouraged.
+
+
