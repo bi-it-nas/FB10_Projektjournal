@@ -80,7 +80,12 @@
 
 ## Protytpe in Figma
 
-Prototype für Adroid Medium > ChatGPT: Recommended frame
-Android Medium (700 × 840)
+Prototype für Adroid Compact > ChatGPT: Recommended frame
+Android Medium (412 × 927)
+
+![image](https://github.com/user-attachments/assets/52f16e8a-010e-4ecb-b252-37d6129611e1)
+
+
+
 
     This is a good "safe" mid-range Android screen size. Represents a modern phone in portrait orientation. Big enough to design comfortably, without going too large.
