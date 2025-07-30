@@ -16,26 +16,26 @@
 
 ## Projektbeschreibung
 
-Im Rahmen von diesem Projekt habe ich eine Android App entwickelt, welche eine Liste von Kursen und Sommerzeitaktivitaeten anzeigt  
+Im Rahmen von diesem Projekt habe ich eine Android App entwickelt, welche eine Liste von Kursen und Sommerzeitaktivitäten anzeigt  
 Man kann diese Kurse anwählen, genauere Details dazu einlesen und schliesslich mit einem Emoji bewerten sowie einen optionalen Kommentar hinterlassen  
-Die App ist gedacht fuer Teilnehmer dieser Kurse
+Die App ist gedacht für Teilnehmer dieser Kurse
 
 ## Benutzeranleitung
 
 Die App zu bedienen ist einfach und intuitiv  
 Auf der Startseite befindet sich eine Liste mit allen Kursen  
-Man kann die Kurse antippen und es erscheint ein Popup Fenster mit weiteren Details sowie der Moeglichkeit, eine Bewertung abzugeben und einen optionalen Kommentar zu hinterlassen  
+Man kann die Kurse antippen und es erscheint ein Popup Fenster mit weiteren Details sowie der Möglichkeit, eine Bewertung abzugeben und einen optionalen Kommentar zu hinterlassen  
 
-Die Bewertungen koennen jederzeit geaendert werden  
-Auf der Startseite gibt es in der Titelleiste zwei zusaetzliche Buttons  
-* Ein Button fuer die Einstellungen, wo man zurzeit alle Kommentare und Bewertungen loeschen kann  
+Die Bewertungen können jederzeit geändert werden  
+Auf der Startseite gibt es in der Titelleiste zwei zusätzliche Buttons  
+* Ein Button für die Einstellungen, wo man zurzeit alle Kommentare und Bewertungen löschen kann  
 * Ein Button zum Beenden der App  
 
 ## Modifikationsanleitung
 
-Zurzeit ist es noch nicht moeglich, ueber die Einstellungen viel anzupassen  
-Im CSharp Code kann man jedoch mit Kenntnissen in XAML, CSS und CSharp relativ viel an der Aesthetik veraendern, wie zum Beispiel Farben, Schriftarten, Schriftgroessen und Bilder  
-Diese Anpassungen koennen alle im Resources Ordner vorgenommen werden
+Zurzeit ist es noch nicht möglich, über die Einstellungen viel anzupassen  
+Im CSharp Code kann man jedoch mit Kenntnissen in XAML, CSS und CSharp relativ viel an der ästhetik verändern, wie zum Beispiel Farben, Schriftarten, Schriftgrössen und Bilder  
+Diese Anpassungen können alle im Resources Ordner vorgenommen werden
 
 ## Chronologie und technische Herausforderungen
 
@@ -44,8 +44,8 @@ Die App wurde bewusst sehr einfach gehalten zugunsten der Benutzerfreundlichkeit
 Bei der Entwicklung gab es einige technische Herausforderungen  
 * Kenntnisse zu Animationen  
 * Daten als JSON speichern und wieder laden  
-* Verstaendnis der .NET MAUI Ordnerstruktur  
-* LowLevel technisches Verstaendnis  
+* Verständnis der .NET MAUI Ordnerstruktur  
+* LowLevel technisches Verständnis  
 
 Die Arbeit in der .NET MAUI Umgebung war anspruchsvoll und stellte einen grossen Sprung dar  
 
@@ -59,7 +59,7 @@ Die Arbeit in der .NET MAUI Umgebung war anspruchsvoll und stellte einen grossen
 
 ### Phase 1 Setup & Initialisierung
 * Installieren der Visual Studio Komponenten und Erstellen einer Hello World App  
-  * Sicherstellen, dass die App im Emulator lauffaehig ist  
+  * Sicherstellen, dass die App im Emulator lauffähig ist  
   * Upload auf GitHub unter dem Namen **HelloWorldMAUI**  
 * Anleitung Erstellen Ihrer ersten .NET MAUI App von Microsoft folgen  
   * [Einfuhrung – Training | Microsoft](https://learn.microsoft.com)
@@ -78,26 +78,26 @@ Die Arbeit in der .NET MAUI Umgebung war anspruchsvoll und stellte einen grossen
 * Vorstellung der Planung bei der FW Leitung und Einholung des Go zum Weiterfahren
 
 ### Phase 3 Umsetzung
-* Entwicklung gemaess Phase 2  
+* Entwicklung gemäss Phase 2  
 * Git lokal nutzen siehe [Mit Git Projekten experimentieren](https://docs.github.com/de/get-started/quickstart/experimenting-with-git)  
 * Laufende technische Dokumentation im Projektjournal auf GitHub  
-* Erste lauffaehige Version upload ins espas Bsp Space unter Moodtracker  
-  * URL: `https://github.com/espas-bsp/MEIN_KUERZEL_E810_MoodTracker`
+* Erste lauffähige Version upload ins espas Bsp Space unter Moodtracker  
+  * URL: `https://github.com/espas-bsp/MEIN_KÜRZEL_E810_MoodTracker`
 
 #### Meilenstein 3
-* Spätestens Mittwoch 9 7 2025 funktionsfaehige Version im IT Labor praesentieren  
-* Nach erfolgreicher Zwischenpraesentation Zuteilung eines Gruppenpartners
+* Spätestens Mittwoch 9 7 2025 funktionsfähige Version im IT Labor präsentieren  
+* Nach erfolgreicher Zwischenpräsentation Zuteilung eines Gruppenpartners
 
 ### Phase 4 Technische Reflexion
-* Beschreibung der groessten technischen Herausforderungen mind 3  
-* Darstellung des Loesungswegs zu jeder Herausforderung
+* Beschreibung der grössten technischen Herausforderungen mind 3  
+* Darstellung des Lösungswegs zu jeder Herausforderung
 
-### Phase 5 Qualitaetssicherung durch Peer Review
+### Phase 5 Qualitätssicherung durch Peer Review
 * Peer Reviews werden rechtzeitig bekanntgegeben  
-* Abhaengig vom jeweiligen Projekt
+* Abhängig vom jeweiligen Projekt
 
-### Phase 6 Abschluss & Praesentation
-* Ausfuehrliche Abschlusspraesentation laut Vorgabe
+### Phase 6 Abschluss & Präsentation
+* Ausführliche Abschlusspräsentation laut Vorgabe
 
 ## Journal
 
@@ -157,11 +157,11 @@ Die Arbeit in der .NET MAUI Umgebung war anspruchsvoll und stellte einen grossen
 
 ## Gedanken
 
-Hier koennen Ideen, offene Fragen und ToDos notiert werden
+Hier können Ideen, offene Fragen und ToDos notiert werden
 
 ## Prototyp in Figma
 
-Prototype fuer Android Compact ChatGPT empfiehlt Frame  
+Prototype für Android Compact ChatGPT empfiehlt Frame  
 Android Medium (412 × 927)
 
 ![image](https://github.com/user-attachments/assets/52f16e8a-010e-4ecb-b252-37d6129611e1)
