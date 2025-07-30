@@ -34,7 +34,7 @@ Auf der Startseite gibt es in der Titelleiste zwei zusätzliche Buttons
 ## Modifikationsanleitung
 
 Zurzeit ist es noch nicht möglich, über die Einstellungen viel anzupassen  
-Im CSharp Code kann man jedoch mit Kenntnissen in XAML, CSS und CSharp relativ viel an der ästhetik verändern, wie zum Beispiel Farben, Schriftarten, Schriftgrössen und Bilder  
+Im CSharp Code kann man jedoch mit Kenntnissen in XAML, CSS und CSharp relativ viel an der Ästhetik verändern, wie zum Beispiel Farben, Schriftarten, Schriftgrössen und Bilder  
 Diese Anpassungen können alle im Resources Ordner vorgenommen werden
 
 ## Chronologie und technische Herausforderungen
@@ -85,7 +85,7 @@ Die Arbeit in der .NET MAUI Umgebung war anspruchsvoll und stellte einen grossen
   * URL: `https://github.com/espas-bsp/MEIN_KÜRZEL_E810_MoodTracker`
 
 #### Meilenstein 3
-* Spätestens Mittwoch 9 7 2025 funktionsfähige Version im IT Labor präsentieren  
+* Spätestens Mittwoch 9.7.2025 funktionsfähige Version im IT Labor präsentieren  
 * Nach erfolgreicher Zwischenpräsentation Zuteilung eines Gruppenpartners
 
 ### Phase 4 Technische Reflexion
