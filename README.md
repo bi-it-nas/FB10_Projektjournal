@@ -161,14 +161,11 @@ Hier können Ideen, offene Fragen und ToDos notiert werden
 
 ## Prototyp in Figma
 
-Prototype für Android Compact ChatGPT empfiehlt Frame  
-Android Medium (412 × 927)
+Prototype für Android Compact ChatGPT empfiehlt Frame Android Compact: "This is a good safe mid range Android screen size Represents a modern phone in portrait orientation Big enough to design comfortably without going too large"
 
 ![image](https://github.com/user-attachments/assets/52f16e8a-010e-4ecb-b252-37d6129611e1)
 
-This is a good safe mid range Android screen size Represents a modern phone in portrait orientation Big enough to design comfortably without going too large
-
-## Reviews
+## Reviews 
 
 Amazing 🌟 They absolutely loved it This is better than fun  
 Fun 😄 They had a great time and enjoyed themselves  
