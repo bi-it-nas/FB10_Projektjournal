@@ -134,7 +134,7 @@ Die Arbeit in der .NET MAUI Umgebung war anspruchsvoll und stellte einen grossen
 ### Donnerstag 24 Juli 2025  
 09 00 – 10 00 > Animationen Feintuning  
 10 15 – 11 55 > Popup Closing-Animation beheben  
-13 00 – 15 00 > Icon-Assets ins Projekt importieren  
+13 00 – 15 00 > Code Optimierung durchführen
 15 15 – 17 00 > Performance-Profiling durchführen
 
 ### Freitag 25 Juli 2025  
